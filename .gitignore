@@ -1,0 +1,6 @@
+venv/
+.vscode/
+
+*.hyper
+
+hyperd.log
