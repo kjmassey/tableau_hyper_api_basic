@@ -26,6 +26,6 @@ This repository contains very basic examples for creating .hyper files for use w
 >##### Usage
 > All examples are found in main.py
 
-#####Additional documentation:
+##### Additional documentation:
 [Tableau Hyper API](https://tableau.github.io/hyper-db/docs/)
 [Pandas](https://pandas.pydata.org/docs/reference/index.html)
