@@ -1,3 +1,8 @@
+<p align="center">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+</p>
+
 # Tableau Hyper API - Basic Examples
 
 ###### Kyle Massey / X: @UpInYourVizness
