@@ -42,7 +42,7 @@ combined_df.insert(0, "id", combined_df.pop("id"))
 
 import pantab
 
-pantab.frame_to_hyper(combined_df, "./order_data.hyper", table="Orders")
+pantab.frame_to_hyper(combined_df, "./orders.hyper", table="Orders")
 
 
 # Using tableauhyperapi:
