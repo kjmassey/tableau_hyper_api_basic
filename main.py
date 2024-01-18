@@ -20,7 +20,7 @@ combined_df = pd.merge(
 # Drop the existing 'id' columns
 combined_df.drop(["id_y", "id_x"], axis=1, inplace=True)
 
-# Drop add row num/id columns
+# Add row num/id columns
 combined_df["id"] = combined_df.index + 1
 
 # Move id column to first position
